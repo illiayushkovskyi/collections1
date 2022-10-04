@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collections", "collections\collections.csproj", "{005E97A7-4BFD-4AC5-B9F5-D5563E3910C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{DFA81233-49BB-46AF-9485-E4F2CFE04E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005E97A7-4BFD-4AC5-B9F5-D5563E3910C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005E97A7-4BFD-4AC5-B9F5-D5563E3910C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005E97A7-4BFD-4AC5-B9F5-D5563E3910C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005E97A7-4BFD-4AC5-B9F5-D5563E3910C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA81233-49BB-46AF-9485-E4F2CFE04E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA81233-49BB-46AF-9485-E4F2CFE04E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA81233-49BB-46AF-9485-E4F2CFE04E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA81233-49BB-46AF-9485-E4F2CFE04E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D7345AA-62AD-4D72-AD50-0666135DAB15}
+	EndGlobalSection
+EndGlobal
